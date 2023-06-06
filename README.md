@@ -1,3 +1,3 @@
 # Bootstrap
 
-A bootstrap folder containing some resource si used for learning.
+A bootstrap folder containing some resources i used for learning.
